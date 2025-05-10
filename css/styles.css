@@ -4877,7 +4877,7 @@ textarea.form-control-lg {
   border-top-right-radius: 0;
 }
 .list-group-horizontal > .list-group-item:last-child:not(:first-child) {
-  border-top-right-radius: var(--bs-list-group-border-radius);
+  border-top-right-radius: 0;
   border-bottom-left-radius: 0;
 }
 .list-group-horizontal > .list-group-item.active {
